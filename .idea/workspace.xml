@@ -5,55 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6136e8e9-dc77-48b3-ba0a-973b78cf8440" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/26JulyPythonClass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional Statement/Elif.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional Statement/If.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional Statement/If_Else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional Statement/Match.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional Statement/Nested_If.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional Statement/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Constructors/Constructor with Parameter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Constructors/Constructor without Parameter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Constructors/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Type/Dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Type/List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Type/Set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Type/Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Type/Variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Type/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diff Programming Ex/Age greater than 18 allowed and below not.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diff Programming Ex/Find Prime Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diff Programming Ex/If else with different combination.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diff Programming Ex/Number Pattern Printing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diff Programming Ex/Number is Even or Odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diff Programming Ex/Pattern Printing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diff Programming Ex/Sum of Natural Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diff Programming Ex/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Function/Ex Function Rules we can follow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Function/Ex1 Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Function/Ex2 Function with Parameter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Function/Ex3 Function returns single value.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Function/Ex4 Function returns multiple values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Function/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/Hierachical Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/Multilevel Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/Multiple Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/Single Level Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loop/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loop/for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loop/while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Method/NonStatic Method@Instance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Method/Static Method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Method/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Variables Class_Global_Local/Class variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Variables Class_Global_Local/Global.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Variables Class_Global_Local/Local.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Variables Class_Global_Local/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/Multiple Inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Multiple Inheritance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

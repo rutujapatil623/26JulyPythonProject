@@ -18,7 +18,6 @@ class son(mother,father):
     def inherit(self):
         print("Has mother & father Property")
 
-
 s = son()
 
 s.Home()
