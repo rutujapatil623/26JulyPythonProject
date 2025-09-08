@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6136e8e9-dc77-48b3-ba0a-973b78cf8440" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/26JulyPythonClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional Statement/Elif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional Statement/If.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional Statement/If_Else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional Statement/Match.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional Statement/Nested_If.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional Statement/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructors/Constructor with Parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructors/Constructor without Parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructors/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Type/Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Type/List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Type/Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Type/Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Type/Variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Type/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Diff Programming Ex/Age greater than 18 allowed and below not.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Diff Programming Ex/Find Prime Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Diff Programming Ex/If else with different combination.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Diff Programming Ex/Number Pattern Printing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Diff Programming Ex/Number is Even or Odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Diff Programming Ex/Pattern Printing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Diff Programming Ex/Sum of Natural Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Diff Programming Ex/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/Ex Function Rules we can follow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/Ex1 Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/Ex2 Function with Parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/Ex3 Function returns single value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/Ex4 Function returns multiple values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/Hierachical Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/Multilevel Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/Multiple Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/Single Level Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loop/for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loop/while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Method/NonStatic Method@Instance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Method/Static Method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Method/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variables Class_Global_Local/Class variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variables Class_Global_Local/Global.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variables Class_Global_Local/Local.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variables Class_Global_Local/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="30xRQvJkwGyx7i0h43Y7jYBhXUz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Age greater than 18 allowed and below not.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Class variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Conditional Statement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Constructor with Parameter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Constructor without Parameter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dictionaries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex Function Rules we can follow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex1 Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex2 Function with Parameter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex3 Function returns single value.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex4 Function returns multiple values.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Find Prime Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hierachical Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Local.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Multiple Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NonStatic Method@Instance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Number Pattern Printing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Number is Even or Odd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pattern Printing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Single Level Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Static Method.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sum of Natural Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.while.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LENOVO/PycharmProjects/PythonProject/Variables Class_Global_Local&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\PycharmProjects\PythonProject\Variables Class_Global_Local" />
+      <recent name="C:\Users\LENOVO\PycharmProjects\PythonProject\Method" />
+      <recent name="C:\Users\LENOVO\PycharmProjects\PythonProject\Loop" />
+      <recent name="C:\Users\LENOVO\PycharmProjects\PythonProject\Functions" />
+      <recent name="C:\Users\LENOVO\PycharmProjects\PythonProject\Diff Programming Ex" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\PycharmProjects\PythonProject\Inheritance" />
+      <recent name="C:\Users\LENOVO\PycharmProjects\PythonProject\Variables" />
+      <recent name="C:\Users\LENOVO\PycharmProjects\PythonProject\Methods" />
+      <recent name="C:\Users\LENOVO\PycharmProjects\PythonProject\Method" />
+      <recent name="C:\Users\LENOVO\PycharmProjects\PythonProject\Conditional Statements" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-b3ae9b5d7125-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.439" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6136e8e9-dc77-48b3-ba0a-973b78cf8440" name="Changes" comment="" />
+      <created>1754567226504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754567226504</updated>
+      <workItem from="1754567240763" duration="1697000" />
+      <workItem from="1754584917551" duration="3594000" />
+      <workItem from="1754900422953" duration="30177000" />
+      <workItem from="1755155870299" duration="5770000" />
+      <workItem from="1755531903349" duration="26828000" />
+      <workItem from="1756395218982" duration="11078000" />
+      <workItem from="1757064498527" duration="9222000" />
+      <workItem from="1757322220829" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Basic_Commands$Static_Method.coverage" NAME="Static Method Coverage Results" MODIFIED="1756400200363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Methods" />
+    <SUITE FILE_PATH="coverage/Basic_Commands$Conditional_Statement.coverage" NAME="Conditional Statement Coverage Results" MODIFIED="1754925056012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional Statements" />
+    <SUITE FILE_PATH="coverage/26JulyPythonClass$Multiple_Inheritance.coverage" NAME="Multiple Inheritance Coverage Results" MODIFIED="1757072786847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Inheritance" />
+    <SUITE FILE_PATH="coverage/Basic_Commands$Pattern_Printing.coverage" NAME="Pattern Printing Coverage Results" MODIFIED="1755615863406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Different programming example" />
+    <SUITE FILE_PATH="coverage/Basic_Commands$Ex2_Function_with_Parameter.coverage" NAME="Ex2 Function with Parameter Coverage Results" MODIFIED="1755788431731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
+    <SUITE FILE_PATH="coverage/Basic_Commands$Variables.coverage" NAME="Variables Coverage Results" MODIFIED="1756403524019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Basic_Commands$Sum_of_Natural_Numbers.coverage" NAME="Sum of Natural Numbers Coverage Results" MODIFIED="1755156024429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Different programming example" />
+    <SUITE FILE_PATH="coverage/26JulyPythonClass$Constructor_without_Parameter.coverage" NAME="Constructor without Parameter Coverage Results" MODIFIED="1757067566008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Constructors" />
+    <SUITE FILE_PATH="coverage/Basic_Commands$NonStatic_Method_Instance.coverage" NAME="NonStatic Method@Instance Coverage Results" MODIFIED="1756397552671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Method/Instance" />
+    <SUITE FILE_PATH="coverage/26JulyPythonClass$Hierachical_Inheritance.coverage" NAME="Hierachical Inheritance Coverage Results" MODIFIED="1757071876165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Inheritance" />
+    <SUITE FILE_PATH="coverage/Basic_Commands$Ex1_Function.coverage" NAME="Ex1 Function Coverage Results" MODIFIED="1755788340494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
+    <SUITE FILE_PATH="coverage/26JulyPythonClass$Constructor_with_Parameter.coverage" NAME="Constructor with Parameter Coverage Results" MODIFIED="1757069679990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Constructors" />
+    <SUITE FILE_PATH="coverage/Basic_Commands$while.coverage" NAME="while Coverage Results" MODIFIED="1754974755195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
+    <SUITE FILE_PATH="coverage/Basic_Commands$Class_variable.coverage" NAME="Class variable Coverage Results" MODIFIED="1756433947149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables" />
+    <SUITE FILE_PATH="coverage/Basic_Commands$List.coverage" NAME="List Coverage Results" MODIFIED="1755606442928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables" />
+    <SUITE FILE_PATH="coverage/Basic_Commands$Dictionaries.coverage" NAME="Dictionaries Coverage Results" MODIFIED="1756402357213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables" />
+    <SUITE FILE_PATH="coverage/Basic_Commands$Local.coverage" NAME="Local Coverage Results" MODIFIED="1756433712893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables" />
+    <SUITE FILE_PATH="coverage/Basic_Commands$Number_is_Even_or_Odd.coverage" NAME="Number is Even or Odd Coverage Results" MODIFIED="1755079387252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Different programming example" />
+    <SUITE FILE_PATH="coverage/Basic_Commands$Ex4_Function_returns_multiple_values.coverage" NAME="Ex4 Function returns multiple values Coverage Results" MODIFIED="1755790132715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
+    <SUITE FILE_PATH="coverage/Basic_Commands$Number_Pattern_Printing.coverage" NAME="Number Pattern Printing Coverage Results" MODIFIED="1755620899104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Different programming example" />
+    <SUITE FILE_PATH="coverage/26JulyPythonClass$Single_Level_Inheritance.coverage" NAME="Single Level Inheritance Coverage Results" MODIFIED="1757070473293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Inheritance" />
+    <SUITE FILE_PATH="coverage/Basic_Commands$Set.coverage" NAME="Set Coverage Results" MODIFIED="1755786491571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables" />
+    <SUITE FILE_PATH="coverage/Basic_Commands$Variable.coverage" NAME="Variable Coverage Results" MODIFIED="1754586043367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testing" />
+    <SUITE FILE_PATH="coverage/Basic_Commands$Find_Prime_Numbers.coverage" NAME="Find Prime Numbers Coverage Results" MODIFIED="1755089505430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Different programming example" />
+    <SUITE FILE_PATH="coverage/Basic_Commands$Ex_Function_Rules_we_can_follow.coverage" NAME="Ex Function Rules we can follow Coverage Results" MODIFIED="1755789406484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
+    <SUITE FILE_PATH="coverage/Basic_Commands$Age_greater_than_18_allowed_and_below_not.coverage" NAME="Age greater than 18 allowed and below not Coverage Results" MODIFIED="1755079025986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Different programming example" />
+    <SUITE FILE_PATH="coverage/Basic_Commands$Tuple.coverage" NAME="Tuple Coverage Results" MODIFIED="1755763039359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables" />
+    <SUITE FILE_PATH="coverage/Basic_Commands$Ex3_Function_returns_single_value.coverage" NAME="Ex3 Function returns single value Coverage Results" MODIFIED="1755788846072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
+  </component>
+</project>
