@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6136e8e9-dc77-48b3-ba0a-973b78cf8440" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Multiple Inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Multiple Inheritance.py" afterDir="false" />
-    </list>
+    <list default="true" id="6136e8e9-dc77-48b3-ba0a-973b78cf8440" name="Changes" comment="9th sept 2025 Two new files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,10 +115,23 @@
       <workItem from="1757064498527" duration="9222000" />
       <workItem from="1757322220829" duration="64000" />
     </task>
+    <task id="LOCAL-00001" summary="9th sept 2025 Two new files">
+      <option name="closed" value="true" />
+      <created>1757323801730</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757323801730</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="9th sept 2025 Two new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="9th sept 2025 Two new files" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Basic_Commands$Static_Method.coverage" NAME="Static Method Coverage Results" MODIFIED="1756400200363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Methods" />
