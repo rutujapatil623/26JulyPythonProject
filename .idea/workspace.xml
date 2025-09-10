@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6136e8e9-dc77-48b3-ba0a-973b78cf8440" name="Changes" comment="9th sept 2025 Two new files" />
+    <list default="true" id="6136e8e9-dc77-48b3-ba0a-973b78cf8440" name="Changes" comment="9th sept 2025 removed file in &#10;variable">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +125,31 @@
       <option name="project" value="LOCAL" />
       <updated>1757323801730</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="9th sept 2025 added new file in &#10;variable">
+      <option name="closed" value="true" />
+      <created>1757324943911</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757324943911</updated>
+    </task>
+    <task id="LOCAL-00003" summary="9th sept 2025 added two new file in &#10;variable">
+      <option name="closed" value="true" />
+      <created>1757326109532</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757326109532</updated>
+    </task>
+    <task id="LOCAL-00004" summary="9th sept 2025 removed file in &#10;variable">
+      <option name="closed" value="true" />
+      <created>1757326189679</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757326189679</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,7 +157,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="9th sept 2025 Two new files" />
-    <option name="LAST_COMMIT_MESSAGE" value="9th sept 2025 Two new files" />
+    <MESSAGE value="9th sept 2025 added new file in &#10;variable" />
+    <MESSAGE value="9th sept 2025 added two new file in &#10;variable" />
+    <MESSAGE value="9th sept 2025 removed file in &#10;variable" />
+    <option name="LAST_COMMIT_MESSAGE" value="9th sept 2025 removed file in &#10;variable" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Basic_Commands$Static_Method.coverage" NAME="Static Method Coverage Results" MODIFIED="1756400200363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Methods" />
